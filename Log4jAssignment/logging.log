@@ -1,0 +1,4 @@
+2022-07-14 15:10:05 INFO Log4jDemo:16 This is Info
+2022-07-14 15:10:05 WARN Log4jDemo:17 This is Warning
+2022-07-14 15:10:05 ERROR Log4jDemo:18 This is Error
+2022-07-14 15:10:05 FATAL Log4jDemo:19 This is Fatal
